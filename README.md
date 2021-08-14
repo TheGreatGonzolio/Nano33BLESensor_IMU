@@ -1,5 +1,5 @@
 # Nano33BLESensor_IMU
-NOTE: I SUCK AT GITHUB... I TRIED TO FORKED THIS FROM Nano33BLESensor and Shrink the Lib size
+NOTE: I SUCK AT GITHUB... I TRIED TO FORK THIS FROM Nano33BLESensor and Shrink the Lib size
 ----
 # Nano33BLESensor
 An Arduino library for the [Nano 33 BLE Sense](https://store.arduino.cc/usa/nano-33-ble-sense) that leverages [Mbed OS](https://os.mbed.com/mbed-os/) to automatically place sensor measurements in a ring buffer that can be integrated into programs in a simple manner.
